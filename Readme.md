@@ -1,6 +1,8 @@
 # 0x9fc9c1d5933dd1814c9fb4c4196428bf50ad503367d769ef15a2530118c3a2de
 
-![alt text](<Screenshot 2024-09-25 150000-1.png>)
+
+![image](https://github.com/user-attachments/assets/dd195655-a6ae-434e-8172-99175e9d9137)
+
 # Asset Tracking Smart Contract
 
 ## Vision
